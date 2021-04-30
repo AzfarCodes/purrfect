@@ -25,11 +25,11 @@ p {
 }
 
 /* Sections */
-.coloured-section{
+.coloured-section {
   background-color: #0f3057;
   color: white;
 }
-.white-section{
+.white-section {
   background-color: white;
 }
 /* Navigation Bar */
@@ -64,7 +64,7 @@ p {
   transform: rotate(25deg);
   position: absolute;
   right: 20%;
-  height: 38.75rem; 
+  height: 38.75rem;
   width: 20rem;
 }
 /* Features */
